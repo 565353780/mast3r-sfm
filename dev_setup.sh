@@ -1,5 +1,5 @@
 cd ..
-git clone https://github.com/jenicek/asmk.git
+git clone --depth 1 https://github.com/jenicek/asmk.git
 
 pip install ninja
 
